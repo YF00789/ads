@@ -68,7 +68,6 @@ if __name__ == "__main__":
     arr2 = list(map(int, input(f"{n2} separated numbers: ").split()))
     print("Output:")
     sum = sumOfNums(arr2, n2)
-    print(sum)
     print(sum/n2)
 
     print("\nTask 3:")
