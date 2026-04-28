@@ -20,6 +20,9 @@ public class Sorter{
             advancedSort(arr, pi+1, high);
         }
     }
+    public void advancedSort(int[] arr){
+        advancedSort(arr, 0, arr.length-1);
+    }
     private int partition(int[] arr, int low, int high){
         int pivot = arr[high];
         int i = (low-1);
