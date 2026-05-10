@@ -1,4 +1,4 @@
-# Assignment 3: Graph Traversal and Analysis
+# Assignment 4: Graph Traversal and Analysis
 
 ## A. Project Overview
 This project implements a non-linear graph to and analyze Breadth-First Search and Depth-First Search, where a graph consists of nodes that hold unique identifiers and Edges representing the connections between these nodes with the objective to compare performance of both algorithms with different graph sizes.
